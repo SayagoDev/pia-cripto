@@ -1,10 +1,33 @@
 # PIA Criptografía
 
+Nombre de la materia: Criptografía  
+Nombre del profesor: Alejandro Muniz Solorio  
+Nombre del alumno: Ángel Saúl Sáyago Leiba  
+Repositorio del proyecto: https://github.com/SayagoDev/pia-cripto  
+Matricula: 2076347  
+Grupo: 062  
+Nombre del proyecto: Plataforma de intercambio de información médica**
+
+======================================================================================
+
+**: La intención de este proyecto era de realizar una DApp en React.js con
+herramientas de Web3 como Solidity, Web3.js y Truffle. Usando Ethereum como
+plataforma blockchain.
+
+Teniendo como objetivo: El intercambio de información médica. Permitiendo a los
+usuarios almacenar y compartir de manera segura su información médica con
+médicos y otros profesionales de la salud.
+
+**Por por problemas de salud (física y mental), no pude realizarla. 🙇**
+
+======================================================================================
+
 Este es el Producto Integrador de Aprendizaje para la materia de Criptografía.
 Es un programa de CLI creado en python, puedes crear llaves publicas/privadas
 utilizando un algoritmo de curvas elípticas, la llave privada es encriptada con
 una contraseña proporcionada por el usuario. Puedes firmar archivos, esto crea un
-_.cer_, ademas de poder verificarlo.
+_.cer_, ademas de poder verificarlo, al hacer esto ultimo, el programa también
+mostrara el nombre del usuario quien firmo el archivo.
 
 [ ✅ ] 1. Iniciar preguntando si quiere registrarse o iniciar sesión.  
 [ ✅ ] 2. El certificado debe guardarse como dos archivos, la llave
